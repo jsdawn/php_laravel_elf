@@ -1,0 +1,84 @@
+############ Common 公共模块  ##################
+############ Common 公共模块  ##################
+POST {{base}}/api/common/test
+Content-Type: application/json
+
+{}
+
+############ Elf 精灵模块  ##################
+############ Elf 精灵模块  ##################
+
+### Elf 精灵 - 新增/编辑
+POST {{base}}/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [1]
+}
+
+### elf 精灵 - 详情
+GET {{base}}/api/elf/detail?id=1
+
+### elf 精灵 - 删除
+POST {{base}}/api/elf/delete
+Content-Type: application/json
+
+{
+  "id": 1
+}
+
+### elf 精灵 - 列表
+GET {{base}}/api/elf/list
+Content-Type: application/json
+
+{
+  "page": 2,
+  "name": "",
+  "gender": ""
+}
+
+
+############ scene 情景模块  ##################
+############ scene 情景模块  ##################
+
+### scene 情景 - 新增/编辑
+POST {{base}}/api/scene/edit
+Content-Type: application/json
+
+{
+  "id": "",
+  "elf_id": "1",
+  "title": "title12",
+  "image": "image",
+  "brief": "brief",
+  "intro": "intro"
+}
+
+### scene 情景 - 详情
+GET {{base}}/api/scene/detail?id=1
+
+### scene
+POST {{base}}/api/scene/delete
+Content-Type: application/json
+
+{
+  "id": 1
+}
+
+### scene 情景 - 列表
+GET {{base}}/api/scene/list
+Content-Type: application/json
+
+{
+  "page": 2,
+  "size": 10,
+  "title": ""
+}
+
+
+###

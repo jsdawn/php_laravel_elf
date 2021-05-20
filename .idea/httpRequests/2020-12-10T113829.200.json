@@ -1,0 +1,15 @@
+{
+  "status": 200,
+  "msg": "success",
+  "data": {
+    "id": 1,
+    "name": "风铃儿",
+    "avatar": "fenglinger.png",
+    "gender": "女",
+    "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+    "created_at": "2020-12-06 23:57:24",
+    "updated_at": "2020-12-10 03:01:29",
+    "deleted_at": null,
+    "roles": []
+  }
+}

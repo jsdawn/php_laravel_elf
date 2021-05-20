@@ -1,0 +1,474 @@
+GET http://localhost:8000/api/scene/detail?id=1
+
+<> 2020-12-10T114304.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113908.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [1]
+}
+
+<> 2020-12-10T113905.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113856.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113829.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": []
+}
+
+<> 2020-12-10T113819.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113747.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113728.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113720.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113642.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113610.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113519.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113429.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T113324.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T112511.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T112054.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T111932.200.html
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T111904.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T111527.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T111509.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T111413.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T111325.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T111212.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T111107.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T110525.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T110208.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T110200.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T110157.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [2,3,4]
+}
+
+<> 2020-12-10T110147.200.json
+
+###
+
+POST http://localhost:8000/api/elf/delete
+Content-Type: application/json
+
+{
+  "id": 1
+}
+
+<> 2020-12-10T110129.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [2,3,4]
+}
+
+<> 2020-12-10T110126.200.json
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-10T110116.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": []
+}
+
+<> 2020-12-10T105434.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [23]
+}
+
+<> 2020-12-10T105129.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": []
+}
+
+<> 2020-12-10T105115.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+}
+
+<> 2020-12-10T105041.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [4,4]
+}
+
+<> 2020-12-10T105029.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": []
+}
+
+<> 2020-12-10T105009.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [
+    4
+  ]
+}
+
+<> 2020-12-10T104951.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [
+    2,
+    4
+  ]
+}
+
+<> 2020-12-10T104937.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [
+    2,
+    3
+  ]
+}
+
+<> 2020-12-10T104915.200.json
+
+###
+
+POST http://localhost:8000/api/elf/edit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "风铃儿",
+  "avatar": "fenglinger.png",
+  "gender": "女",
+  "brief": "听，微风拂过的那片森林，就是梦想所在的地方d...",
+  "role_ids": [
+    2,
+    3
+  ]
+}
+
+<> 2020-12-10T101825.200.json
+
+###
+
+POST http://localhost:8000/api/common/test
+Content-Type: application/json
+
+{}
+
+<> 2020-12-09T070330.200.json
+
+###
+
+POST http://localhost:8000/api/common/test
+Content-Type: application/json
+
+{}
+
+<> 2020-12-09T070300.500.html
+
+###
+
+POST http://localhost:8000/api/common/test
+Content-Type: application/json
+
+{}
+
+<> 2020-12-09T070047.200.json
+
+###
+
+POST http://localhost:8000/api/common/test
+Content-Type: application/json
+
+{}
+
+###
+
+GET http://localhost:8000/api/elf/detail?id=1
+
+<> 2020-12-09T055551.200.json
+
+###
+
+POST http://localhost:8000/api/common/test
+Content-Type: application/json
+
+{}
+
+<> 2020-12-09T053745.500.html
+
+###
+
+POST http://localhost:8000/api/common/test
+Content-Type: application/json
+
+{}
+
+<> 2020-12-09T051613.200.json
+
+###
+
+POST http://localhost:8000/api/common/test
+Content-Type: application/json
+
+{}
+
+<> 2020-12-09T051559.200.json
+
+###
+

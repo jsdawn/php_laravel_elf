@@ -1,0 +1,31 @@
+{
+  "status": 200,
+  "msg": "success",
+  "data": {
+    "DOCUMENT_ROOT": "\/Users\/diggmind\/workspace\/phpdemo\/blog\/public",
+    "REMOTE_ADDR": "127.0.0.1",
+    "REMOTE_PORT": "56392",
+    "SERVER_SOFTWARE": "PHP 7.3.11 Development Server",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "SERVER_NAME": "127.0.0.1",
+    "SERVER_PORT": "8000",
+    "REQUEST_URI": "\/api\/common\/test",
+    "REQUEST_METHOD": "POST",
+    "SCRIPT_NAME": "\/index.php",
+    "SCRIPT_FILENAME": "\/Users\/diggmind\/workspace\/phpdemo\/blog\/public\/index.php",
+    "PATH_INFO": "\/api\/common\/test",
+    "PHP_SELF": "\/index.php\/api\/common\/test",
+    "CONTENT_TYPE": "application\/json",
+    "HTTP_CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "2",
+    "HTTP_CONTENT_LENGTH": "2",
+    "HTTP_HOST": "localhost:8000",
+    "HTTP_CONNECTION": "Keep-Alive",
+    "HTTP_USER_AGENT": "Apache-HttpClient\/4.5.6 (Java\/1.8.0_202-release)",
+    "HTTP_ACCEPT_ENCODING": "gzip,deflate",
+    "REQUEST_TIME_FLOAT": 1607511647.671943,
+    "REQUEST_TIME": 1607511647,
+    "argv": [],
+    "argc": 0
+  }
+}
